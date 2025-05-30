@@ -1,8 +1,5 @@
-# ci-cd-automation
-CI/CD pipeline automation using GitHub Actions, Jenkins, and Terraform to streamline deployments and infrastructure provisioning.
-<!-- Trigger test -->
 # AWS Deployment Tracker 🚀
-
+![CI](https://github.com/gokarneninikitha/ci-cd-automation/actions/workflows/deploy.yml/badge.svg)
 This project helps track and manage tasks related to deploying AWS Lambda functions using **CI/CD pipelines**, **GitHub Actions**, and **Terraform**.
 
 ## 🧰 Tools Used
